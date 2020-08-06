@@ -1,4 +1,4 @@
 def reverse_each_word(sentence)
   puts "#{sentence}".reverse  
-  puts sentence.sort
+  puts sentence.reorder
 end 
