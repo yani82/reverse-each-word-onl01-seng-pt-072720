@@ -1,5 +1,5 @@
 def reverse_each_word(sentence)
   puts "#{sentence}".reverse  
-  puts sentence.
+  puts sentence.front
 end 
 end 
